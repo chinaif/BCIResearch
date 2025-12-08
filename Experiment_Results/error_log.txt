@@ -1,0 +1,3 @@
+08-Dec-2025 04:35:29 - Error in BBC4view Mode A: 无法读取 MAT 文件 D:\if\Research\Code\Multi-view-datasets-master\BBC4view.mat。文件可能已损坏。
+08-Dec-2025 04:35:29 - Error in BBC4view Mode B: 无法读取 MAT 文件 D:\if\Research\Code\Multi-view-datasets-master\BBC4view.mat。文件可能已损坏。
+08-Dec-2025 04:35:29 - Error in BBC4view Mode C: 无法读取 MAT 文件 D:\if\Research\Code\Multi-view-datasets-master\BBC4view.mat。文件可能已损坏。
